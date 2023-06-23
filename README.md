@@ -6,6 +6,10 @@ Exploring the [Constrained Application Protocol
 
 ## Golioth Basics (PSK)
 
+```
+wireshark golioth_basics_psk.pcapng
+```
+
 The Golioth Basics (PSK) example uses the [Golioth
 Basics](https://github.com/golioth/golioth-firmware-sdk/tree/main/examples/linux/golioth_basics)
 program from the [Golioth Firmware
